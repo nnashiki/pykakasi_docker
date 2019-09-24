@@ -1,6 +1,9 @@
 # pykakasi_docker
 pykakasi test with docker
 
+what's pykakasi
+https://github.com/miurahr/pykakasi
+
 # build and run
 
 ```
